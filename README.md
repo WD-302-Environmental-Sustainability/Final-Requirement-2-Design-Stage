@@ -11,4 +11,4 @@ This is the draft of our Advocacy design which is Environmental Sustainability. 
 
 
 
-[landing-page]: images/Frame 1.png
+[landing-page]: images/Frame_1.png
