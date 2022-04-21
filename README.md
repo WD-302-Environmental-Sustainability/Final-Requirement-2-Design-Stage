@@ -10,11 +10,13 @@ A navigation bar can be found on the top which redirects to the corresponding pa
 A color scheme of the colors black, white, and green is used to be able to convey the emphasis of the environment.
 A bold, and striking statement in the bottom to capture the attention of the viewer.
 
+## Continuation:
 [![landing-page2][landing-page2]](https://example.com)
 
 A short description, and explanation about the advocacy is shown, and a panel wherein articles can be written for SEO purposes.
 The articles will be about more information about our advocacy such as Easy Steps towards Sustainability in our Daily Lives.
 
+## Continuation:
 [![landing-page3][landing-page3]](https://example.com)
 
 A statistics panel for things that are related to Environmental Sustainability.
